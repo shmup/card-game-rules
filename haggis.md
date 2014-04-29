@@ -55,7 +55,7 @@ Wild Cards
 
 The J, Q, or K may also be used as wild cards to stand for any lower ranked card(s) in a set or sequence. 
 
-<pre>Example: a J can stand for an 8, but cannot be substituted for a K.</pre>
+>Example: a J can stand for an 8, but cannot be substituted for a K.
 
 When played as part of a sequence, wild cards may have whichever suit is required.
 
@@ -118,9 +118,7 @@ All point cards (i.e., any 3, 5, 7, 9, J, Q, or K), captured during trick play, 
 
 Points for any bets are scored. If the bet was successful, the amount bet will be added to the player’s score. If the bet was not successful the amount bet will be added to the score of the player first to “go out” and any other opponent that did not bet on this round.
 
-<pre>
-Example: Adam, Brenda, and Carol are playing. Adam and Brenda both make Little Bets after receiving all of their cards. Carol does not bet. Adam goes out first. Adam earns 15 points for his successful bet, plus 15 points for Brenda’s unsuccessful bet, for a total of 30 points. Brenda does not earn any points from bets. Carol earns 15 points for Brenda’s unsuccessful bet. In this same scenario, if Carol had gone out first instead of Adam, she would have earned 30 points, 15 for each of Adam and Carol’s unsuccessful bets, no other player would earn points.
-</pre>
+>Example: Adam, Brenda, and Carol are playing. Adam and Brenda both make Little Bets after receiving all of their cards. Carol does not bet. Adam goes out first. Adam earns 15 points for his successful bet, plus 15 points for Brenda’s unsuccessful bet, for a total of 30 points. Brenda does not earn any points from bets. Carol earns 15 points for Brenda’s unsuccessful bet. In this same scenario, if Carol had gone out first instead of Adam, she would have earned 30 points, 15 for each of Adam and Carol’s unsuccessful bets, no other player would earn points.
 
 _Note: In a three player game, the first player to go out records the number of cards held by the opponent with the most cards before the remaining two players continue play._
 
