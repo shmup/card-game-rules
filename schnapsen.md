@@ -26,7 +26,7 @@ Ace (Ass)          | Deuce / Sow (Daus / Sau) | 11
 Ten (Zehner)       | Ten (Zehner)             | 10
 King (König)       | King (König)             | 4
 Queen (Dame)       | Over (Ober)              | 3
-Jack (Bube)        | Under (Unter)            | 2`
+Jack (Bube)        | Under (Unter)            | 2
 ```
 
 With German cards, the highest card is in fact the two (Daus), although it is sometimes called the ace (Ass), and often the Sow (Sau), since it is a fat card, worth many points. Note also that, in the absence of a queen, same-sex marriages are between the König and Ober. In fact Obers are sometimes referred to as Queens (Damen) and Unters as Jacks (Buben).
