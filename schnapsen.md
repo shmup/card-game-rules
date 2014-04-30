@@ -3,6 +3,8 @@ Schnapsen
 
 This page is based on a description contributed by Keith Waclena, maintainer of the Austrian Beer Guide, and revised by John McLeod.
 
+Rules taken from: http://www.pagat.com/marriage/schnaps.html
+
 Schnapsen (or Schnapser) is a popular Austrian two-hander. It is essentially a tightened-up version of the classic German game Sechsundsechzig. Other closely related games include Tausendeins (Austria), Tute (Spain), Tyziacha (Russia and Ukraine), and Snapszli (Hungary), but anyone familiar with any member of the Ace-Ten family (such as Pinochle) will grasp the essentials quickly. Schnapsen is an inherently tense game that requires a lot of concentration and so isn't good for socializing, but it's a challenging game whose interest never wavers.
 
 The Idea of the Game

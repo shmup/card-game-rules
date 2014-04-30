@@ -3,6 +3,8 @@ Haggis
 
 A climbing game for two or three players. Made by Sean Ross.
 
+Rules taken from: http://forum.boardgamearena.com/images/specials/haggis_rulebook.pdf
+
 Object 
 ------
 

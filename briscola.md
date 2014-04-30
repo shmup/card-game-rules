@@ -3,6 +3,8 @@ Briscola
 
 This page is based on a contribution from Paolo Marino.
 
+Rules taken from: http://www.pagat.com/aceten/briscola.html
+
 Introduction
 ------------
 
