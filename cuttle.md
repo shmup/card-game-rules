@@ -5,7 +5,7 @@ The exact origin of this unusual two-player game is unknown. It is described in 
 
 He says he was taught the rules [in 1975](#this-game-is-has-similarities-with-magic-the-gathering).
 
-Rules adapted from: http://www.pagat.com/combat/cuttle.html
+Rules taken and cleaned from: http://www.pagat.com/combat/cuttle.html
 
 
 Object 
