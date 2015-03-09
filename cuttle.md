@@ -51,11 +51,11 @@ Ace   | Put all point cards on the table into the scrap pile.
 Two   | Place any card on the table into the scrap pile, except a point card. (In practice, Kings, Queens, Jacks and the "glasses" eight)
       | or
       | Place any one-off just played into the scrap pile. This occurs before the effect of that card is accomplished, and, uniquely, can be played during the opponents turn, as well as your own.
-Three | Rummage through the scrap pile, taking a card of your choice into your hand.
+Three | Rummage through the scrap pile, taKing a card of your choice into your hand.
 Four  | Opponent must discard two cards of his choice from his hand into the scrap pile.
 Five  | You may draw two cards.
 Six   | All cards on the table except for point cards are moved into the scrap pile.
-Seven | Draw a card. You can and must play this drawn card immediately - whether as a point card, a scuttle, a one-off, whatever. If you are unable to play the card, it is discarded. (This may only happen in the event of drawing a jack).
+Seven | Draw a card. You can and must play this drawn card immediately - whether as a point card, a scuttle, a one-off, whatever. If you are unable to play the card, it is discarded. (This may only happen in the event of drawing a Jack).
 Eight | 8 points and [these abilities](#eight-eyeglasses).
 Nine  | Return any permanent card to its controller's hand.
 Ten | Just worth 10 points. No special abilities.
@@ -67,12 +67,12 @@ Can only be played on your turn, and count as no points.
 Card  | Ability
 ----  | -------
 Jack  | Placed on top of a point card already on the table. Kept there, the card is moved across the table and is now owned by the opponent of its original owner (who is generally your opponent!)
-Queen | Played on the table, like a point card. With a queen in play, none of your other cards may be the target of opposing cards that target a single card, such as jacks and twos. However, this offers no protection against those like aces that target more widely, even if there is only one card the table that will be affected. Nor do Queens offer any protection against scuttle attacks.
-King  | Played like queens. With a king in play, a player can win with just 14 points worth of point cards on the table. With two kings he needs just ten, with three, seven, and with all four just five points! (Mathematically, a player needs 21/(1.5^k) points to win, where k is the number of kings controlled by that player).  
+Queen | Played on the table, like a point card. With a Queen in play, none of your other cards may be the target of opposing cards that target a single card. (Specifically: **Jacks, twos, and nines**). However, this offers no protection against those like aces that target more widely, even if there is only one card the table that will be affected. Nor do Queens offer any protection against scuttle attacks.
+King  | Played like Queens. With a King in play, a player can win with just 14 points worth of point cards on the table. With two Kings he needs just ten, with three, seven, and with all four just five points! (Mathematically, a player needs 21/(1.5^k) points to win, where k is the number of Kings controlled by that player).  
 
 ### Eight :eyeglasses:
 
-As well as a point card, an eight too has a secondary use, although it is not a one-off. Instead, the card may be placed rather like a king or queen, but at right angles to the opponent (and his other cards). This differtiantes it from point card eights, and simultaneously makes it look like a pair of glasses! The effect is that the opponent must play with his hand exposed until he finds a way to transfer the eight to the scrap pile.
+As well as a point card, an eight too has a secondary use, although it is not a one-off. Instead, the card may be placed rather like a King or Queen, but at right angles to the opponent (and his other cards). This differtiantes it from point card eights, and simultaneously makes it look like a pair of glasses! The effect is that the opponent must play with his hand exposed until he finds a way to transfer the eight to the scrap pile.
 
 
 FAQ
@@ -80,7 +80,7 @@ FAQ
 
 ### What happens if the pack is exhausted?
 
-> Although I am no authority, I can find no other guide to the question online. The rule I have played for twenty-five years is that it is unfair (and dull!) to end the game while a win may still be forced. Therefore, I play that "taking a card" in this situation becomes an effective pass, and that if three of these occur in a row, it is only then that the game is declared a draw.
+> Although I am no authority, I can find no other guide to the question online. The rule I have played for twenty-five years is that it is unfair (and dull!) to end the game while a win may still be forced. Therefore, I play that "taKing a card" in this situation becomes an effective pass, and that if three of these occur in a row, it is only then that the game is declared a draw.
 
 ### Can I play a two to "counter" a point card? How about a scuttle?
 
@@ -88,7 +88,7 @@ FAQ
 
 ###  Do Queens protect against "countering" twos?
 
-> The second most common question I am asked :-). The answer is yes: queens prevent the targetting of any single card controlled by that player, however briefly.
+> The second most common question I am asked :-). The answer is yes: Queens prevent the targetting of any single card controlled by that player, however briefly.
 
 ### May a two be used to cancel an opponent's two?
 
@@ -96,11 +96,11 @@ FAQ
 
 ### May I use a three to rummage for the three I just played?
 
-> I don't think so. Since cards in the scrap pile do not affect the game, I believe a card sits in a kind of suspension until its effect has been resolved. This also gives clarity to the protection of one-offs by queens.
+> I don't think so. Since cards in the scrap pile do not affect the game, I believe a card sits in a kind of suspension until its effect has been resolved. This also gives clarity to the protection of one-offs by Queens.
 
 ### Suppose the only point card on the table is mine, and my one-off seven comes up as a Jack. What happens
 
-> To me, the only logical answer is that the card switches sides, with the jack on top of it!
+> To me, the only logical answer is that the card switches sides, with the Jack on top of it!
 
 ### This game has similarities with Magic: The Gathering!
 
@@ -110,7 +110,7 @@ FAQ
 Credits
 -------
 
-Richard Sipie has been playing games since 1951. He also enjoys walking, collecting (especially theatre paraphenalia) and flattery :-). He is happily married and lives in Bloomington, IL.
+Richard Sipie has been playing games since 1951. He also enjoys walKing, collecting (especially theatre paraphenalia) and flattery :-). He is happily married and lives in Bloomington, IL.
 
 R.Sipie, 2000 
 (do E-mail me!)
