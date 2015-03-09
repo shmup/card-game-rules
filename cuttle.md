@@ -40,6 +40,8 @@ What do the cards do?
 1. Suit order: :clubs: :diamonds: :hearts: :spades: (clubs, diamonds, hearts, spades)
 2. Rank order: A-2-3-4-5-6-7-8-9-10-J-Q-K
 
+_A helpful way to remember suit order is that they are alphabetical:_ **C-D-H-S**
+
 
 ### Point Cards
 
