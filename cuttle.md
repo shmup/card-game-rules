@@ -28,22 +28,22 @@ What do the cards do?
 
 1. Firstly: Any numbered card (A-10) may be played as a **point card**. In this case, the player puts the card face-up on the table in front of him, and it is worth as many points as the are spots on its face (1 for an ace, etc).
 
-2. Secondly: Any numbered card (A-10) may be played, instead, as a **scuttle**. In this case, it is played **on top** of a point card which it exceeds [in value](#card-values). Both cards are then moved directly to the scrap pile (**face up**, as is everything there).
+2. Secondly: Any numbered card (A-10) may be played, instead, as a **scuttle**. In this case, it is played **on top** of a point card which it exceeds [in value](#card-values).:small_orange_diamond: Both cards are then moved directly to the scrap pile (**face up**, as is everything there).:small_blue_diamond:
 
+:small_orange_diamond: _The eight of clubs will scuttle the seven of spades, but not the eight of hearts._
 
-_Cards in the scrap pile have no controller, and do not effect the game in any way._
+:small_blue_diamond: _Cards in the scrap pile have no controller, and do not effect the game in any way._
 
 
 ### Card Values
 
-1. Suit order: :clubs: :diamonds: :hearts: :spades: (clubs, diamond, hearts, spade)
+1. Suit order: :clubs: :diamonds: :hearts: :spades: (clubs, diamonds, hearts, spades)
 2. Rank order: A-2-3-4-5-6-7-8-9-10-J-Q-K
 
-The numbered cards may all be played as a one-off, except for the eights and tens. In this case, they are placed directly into the scrap pile, with the following effects:
 
-### Card One-Off Abilities
+### Numbered Cards
 
-#### Numbered Cards
+The numbered cards may all be played as a one-off, **except for the eights and tens.** In this case, they are placed directly into the scrap pile, with the following effects:
 
 Card  | Ability
 ----  | -------
@@ -60,8 +60,9 @@ Eight | 8 points and [these abilities](#eight-eyeglasses).
 Nine  | Return any permanent card to its controller's hand.
 Ten | Just worth 10 points. No special abilities.
 
-#### Royalty :crown:
-_Can only be played on your turn, and count as no points._
+### Royalty :crown:
+
+Can only be played on your turn, and count as no points.
 
 Card  | Ability
 ----  | -------
