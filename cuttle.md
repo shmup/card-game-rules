@@ -3,7 +3,7 @@ Cuttle
 
 The exact origin of this unusual two-player game is unknown. It is described in Richard Sipie's [Cuttle FAQ](http://www.geocities.ws/richardsipie/cuttle.htm).
 
-He says he was taught the rules [in 1975](#this-game-is-has-similarities-with-magic-the-gathering).
+He says he was taught the rules [in 1975](#this-game-has-similarities-with-magic-the-gathering).
 
 Rules taken and cleaned from: http://www.pagat.com/combat/cuttle.html
 
