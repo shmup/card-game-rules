@@ -51,7 +51,7 @@ Ace   | Put all point cards on the table into the scrap pile.
 Two   | Place any card on the table into the scrap pile, except a point card. (In practice, Kings, Queens, Jacks and the "glasses" eight)
       | or
       | Place any one-off just played into the scrap pile. This occurs before the effect of that card is accomplished, and, uniquely, can be played during the opponents turn, as well as your own.
-Three | Rummage through the scrap pile, taKing a card of your choice into your hand.
+Three | Rummage through the scrap pile, taking a card of your choice into your hand.
 Four  | Opponent must discard two cards of his choice from his hand into the scrap pile.
 Five  | You may draw two cards.
 Six   | All cards on the table except for point cards are moved into the scrap pile.
@@ -79,7 +79,7 @@ FAQ
 
 ### What happens if the pack is exhausted?
 
-> Although I am no authority, I can find no other guide to the question online. The rule I have played for twenty-five years is that it is unfair (and dull!) to end the game while a win may still be forced. Therefore, I play that "taKing a card" in this situation becomes an effective pass, and that if three of these occur in a row, it is only then that the game is declared a draw.
+> Although I am no authority, I can find no other guide to the question online. The rule I have played for twenty-five years is that it is unfair (and dull!) to end the game while a win may still be forced. Therefore, I play that "taking a card" in this situation becomes an effective pass, and that if three of these occur in a row, it is only then that the game is declared a draw.
 
 ### Can I play a two to "counter" a point card? How about a scuttle?
 
@@ -109,7 +109,7 @@ FAQ
 Credits
 -------
 
-Richard Sipie has been playing games since 1951. He also enjoys walKing, collecting (especially theatre paraphenalia) and flattery :-). He is happily married and lives in Bloomington, IL.
+Richard Sipie has been playing games since 1951. He also enjoys walking, collecting (especially theatre paraphenalia) and flattery :-). He is happily married and lives in Bloomington, IL.
 
 R.Sipie, 2000 
 (do E-mail me!)
