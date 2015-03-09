@@ -67,7 +67,7 @@ Can only be played on your turn, and count as no points.
 Card  | Ability
 ----  | -------
 Jack  | Placed on top of a point card already on the table. Kept there, the card is moved across the table and is now owned by the opponent of its original owner (who is generally your opponent!)
-Queen | Played on the table, like a point card. With a queen in play, none of your other cards may be the target of opposing cards that target a single card, such as jacks and twos. However, this offers no protection against those like aces that target more widely, even if there is only one card the table that will be effected. Nor do Queens offer any protection against scuttle attacks.
+Queen | Played on the table, like a point card. With a queen in play, none of your other cards may be the target of opposing cards that target a single card, such as jacks and twos. However, this offers no protection against those like aces that target more widely, even if there is only one card the table that will be affected. Nor do Queens offer any protection against scuttle attacks.
 King  | Played like queens. With a king in play, a player can win with just 14 points worth of point cards on the table. With two kings he needs just ten, with three, seven, and with all four just five points! (Mathematically, a player needs 21/(1.5^k) points to win, where k is the number of kings controlled by that player).  
 
 ### Eight :eyeglasses:
@@ -102,7 +102,7 @@ FAQ
 
 > To me, the only logical answer is that the card switches sides, with the jack on top of it!
 
-### This game is has similarities with Magic: The Gathering!
+### This game has similarities with Magic: The Gathering!
 
 > It's been remarked on. It does however predate it considerably - I learnt the rules in 1975. A reverse genealogy would be fascinating - I would love to know if Richard Garfield has heard of the game.
 
