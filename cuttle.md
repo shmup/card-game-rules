@@ -107,6 +107,28 @@ FAQ
 
 > It's been remarked on. It does however predate it considerably - I learnt the rules in 1975. A reverse genealogy would be fascinating - I would love to know if Richard Garfield has heard of the game.
 
+### An easier way to remember Cuttle effects as a MTG player
+
+piato on Reddit [gave these tips](http://www.reddit.com/r/magicTCG/comments/2ye2yc/theres_a_standard_playing_card_game_from_1975/cp8xzpe):
+
+> "Point cards" are creatures. You win if you have 21 power on the table. J/Q/K are enchantments.
+
+> A: Wrath 2: Dispel / Disenchant (split card) 3: Regrowth 4: Mind Rot 5: Divination 6: Back to Nature 7: draw a card and play it immediately (Chandra +0?) 8: Glasses of Urza 9: Boomerang 10: - J: Mind Control Q: Defense Grid + Privileged Position K: Your creatures have power * 1.5
+
+> (Note that the Instant/Sorcery status of those cards isn't quite right - everything in the game is at "sorcery speed" (i.e. on your turn, and the only thing you do on your turn), except for the counterspell mode of 2s. Which makes the counters into Flusterstorms or something, since they can't hit "creatures", scuttles (um, evoking shriekmaw I guess?) or "enchantments".)
+
+### The 9 doesn't seem very useful as a one-off:
+
+piato on Reddit [says](http://www.reddit.com/r/magicTCG/comments/2ye2yc/theres_a_standard_playing_card_game_from_1975/cp99ehj):
+
+> I don't know what's going on with the rule for 9s, but they're completely useless as stated. John M (who runs pagat.com, which hosts the Sipie FAQ) suggested that he may have meant "bounce a card and it can't be replayed that turn", which makes a ton more sense.
+
+
+Variations
+----------
+
+ * Instead of the 4's one-off being a **Choice Discard**, make it a **Random Discard**. It can possibly improves the game once you hit a reasonably high level, putting pressure on 2's and encouraging attacking play. On the other hand, choice 4's are skill-testing when you're just learning the game, so swings and roundabouts I guess. (suggested by [piato](http://www.reddit.com/r/magicTCG/comments/2ye2yc/theres_a_standard_playing_card_game_from_1975/cp99ehj))
+
 
 Credits
 -------
