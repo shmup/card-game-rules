@@ -60,6 +60,10 @@ Eight | 8 points and [these abilities](#eight-eyeglasses).
 Nine  | Return any permanent card to its controller's hand.
 Ten | Just worth 10 points. No special abilities.
 
+### Eight :eyeglasses:
+
+As well as a point card, an eight too has a secondary use, although it is not a one-off. Instead, the card may be placed rather like a King or Queen, but at right angles to the opponent (and his other cards). This differtiantes it from point card eights, and simultaneously makes it look like a pair of glasses! The effect is that the opponent must play with his hand exposed until he finds a way to transfer the eight to the scrap pile.
+
 ### Royalty :crown:
 
 Can only be played on your turn, and count as no points.
@@ -69,11 +73,6 @@ Card  | Ability
 Jack  | Placed on top of a point card (A-10) already on the table. Kept there, the card is moved across the table and is now owned by the opponent of its original owner (who is generally your opponent!)
 Queen | Played on the table, like a point card. With a Queen in play, none of your other cards may be the target of opposing cards that target a single card. (Specifically: **Jacks, twos, and nines**). However, this offers no protection against those like aces that target more widely, even if there is only one card the table that will be affected. Nor do Queens offer any protection against scuttle attacks.
 King  | Played like Queens. With a King in play, a player can win with just 14 points worth of point cards on the table. With two Kings he needs just ten, with three, seven, and with all four just five points! (Mathematically, a player needs 21/(1.5^k) points to win, where k is the number of Kings controlled by that player).  
-
-### Eight :eyeglasses:
-
-As well as a point card, an eight too has a secondary use, although it is not a one-off. Instead, the card may be placed rather like a King or Queen, but at right angles to the opponent (and his other cards). This differtiantes it from point card eights, and simultaneously makes it look like a pair of glasses! The effect is that the opponent must play with his hand exposed until he finds a way to transfer the eight to the scrap pile.
-
 
 FAQ
 ---
