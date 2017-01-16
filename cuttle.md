@@ -30,7 +30,7 @@ What do the cards do?
 
 2. Secondly: Any numbered card (A-10) may be played, instead, as a **scuttle**. In this case, it is played **on top** of a point card which it exceeds [in value](#card-values).:small_orange_diamond: Both cards are then moved directly to the scrap pile (**face up**, as is everything there).:small_blue_diamond:
 
-:small_orange_diamond: _The eight of clubs will scuttle the seven of spades, but not the eight of hearts._
+:small_orange_diamond: _The eight of hearts will scuttle the seven of spades, but not the eight of clubs._
 
 :small_blue_diamond: _Cards in the scrap pile have no controller, and do not effect the game in any way._
 
