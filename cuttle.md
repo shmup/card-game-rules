@@ -50,9 +50,7 @@ The numbered cards may all be played as a one-off, **except for the eights and t
 Card  | Ability
 ----  | -------
 Ace   | Put all point cards on the table into the scrap pile.
-Two   | Place any card on the table into the scrap pile, except a point card. (In practice, Kings, Queens, Jacks and the "glasses" eight)
-      | or
-      | Place any one-off just played into the scrap pile. This occurs before the effect of that card is accomplished, and, uniquely, can be played during the opponents turn, as well as your own.
+Two   | Place any card on the table into the scrap pile, except a point card. (In practice, Kings, Queens, Jacks and the "glasses" eight) or Place any one-off just played into the scrap pile. This occurs before the effect of that card is accomplished, and, uniquely, can be played during the opponents turn, as well as your own.
 Three | Rummage through the scrap pile, taking a card of your choice into your hand.
 Four  | Opponent must discard two cards of his choice from his hand into the scrap pile.
 Five  | You may draw two cards.
