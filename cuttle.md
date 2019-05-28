@@ -62,7 +62,7 @@ Ten | Just worth 10 points. No special abilities.
 
 ### Eight :eyeglasses:
 
-As well as a point card, an eight too has a secondary use, although it is not a one-off. Instead, the card may be placed rather like a King or Queen, but at right angles to the opponent (and his other cards). This differtiantes it from point card eights, and simultaneously makes it look like a pair of glasses! The effect is that the opponent must play with his hand exposed until he finds a way to transfer the eight to the scrap pile.
+As well as a point card, an eight too has a secondary use, although it is not a one-off. Instead, the card may be placed rather like a King or Queen, but at right angles to the opponent (and his other cards). This differentiates it from point card eights, and simultaneously makes it look like a pair of glasses! The effect is that the opponent must play with his hand exposed until he finds a way to transfer the eight to the scrap pile.
 
 ### Royalty :crown:
 
