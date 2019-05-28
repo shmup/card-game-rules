@@ -87,7 +87,7 @@ FAQ
 
 ###  Do Queens protect against "countering" twos?
 
-> The second most common question I am asked :-). The answer is yes: Queens prevent the targetting of any single card controlled by that player, however briefly.
+> The second most common question I am asked :-). The answer is yes: Queens prevent the targeting of any single card controlled by that player, however briefly.
 
 ### May a two be used to cancel an opponent's two?
 
