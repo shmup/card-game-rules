@@ -1,0 +1,53 @@
+PATIENCE POKER
+=================
+
+patience poker is played by building 10 hands over a 5x5 grid
+
+  ░░░░░
+  ░░░░░
+  ░░▓░░
+  ░░░░░
+  ░░░░░
+
+1. start with a shuffled deck of 52 cards and place the top card in the _center_
+2. draw another card and place orthogonally next to the first card
+3. continue this process, always placing the next card orthogonally next to any card
+4. stop when you've filled all 5x5 slots
+
+example of legal board state:
+
+    ░  ░
+     ▓ ░
+      ░
+
+example of illegal board state:
+
+    ░  ░
+     ▓
+      ░░
+
+5. score each column/row by any system. UK is the OG method
+
+HAND 	    | UK  |  US  | Barry
+------------|-----|------|-----
+pair 	    |  1  |   2  |    2
+2-pair 	    |  3  |   5  |    5
+flush 	    |  5  |  20  |   15
+3-of-a-kind |  6  |  10  |   10
+straight    | 12  |  15  |   25
+full house  | 10  |  50  |   50
+4-of-a-kind | 16  |  70  |   70
+str8 flush  | 30  | 100  |  100
+
+===NOTE===
+if it isn't obv, you don't score a thing twice i.e. a [full house] isn't
+also scored as a [pair] + [3-of-a-kind]
+
+===NOTE===
+multiplayer is simply each person having their own deck and finding the same
+card as the leader (guess you could rotate this?) and places it as they wish
+on their board
+
+===NOTE===
+shackleton 'n boys played hella patience poker. the game was likely designed
+around their adventure era (1909 is first mention in a publication)
