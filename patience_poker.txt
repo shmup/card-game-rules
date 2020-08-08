@@ -51,3 +51,7 @@ on their board
 ===NOTE===
 shackleton 'n boys played hella patience poker. the game was likely designed
 around their adventure era (1909 is first mention in a publication)
+
+===NOTE===
+if you notice that the flush is worth more in some systems, that's bc it is
+undervalued in the UK method, as 3-of-a-kind is easier to pull off
