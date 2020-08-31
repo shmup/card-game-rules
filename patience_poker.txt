@@ -10,7 +10,7 @@ patience poker is played by building 10 hands over a 5x5 grid
   ░░░░░
 
 1. start with a shuffled deck of 52 cards and place the top card in the _center_
-2. draw another card and place orthogonally next to the first card
+2. blindly deal another card and place it orthogonally next to the first card
 3. continue this process, always placing the next card orthogonally next to any card
 4. stop when you've filled all 5x5 slots
 
@@ -49,8 +49,7 @@ card as the leader (guess you could rotate this?) and places it as they wish
 on their board
 
 ===NOTE===
-shackleton 'n boys played hella patience poker. the game was likely designed
-around their adventure era (1909 is first mention in a publication)
+shackleton 'n boys played hella patience poker in the arctic
 
 ===NOTE===
 if you notice that the flush is worth more in some systems, that's bc it is
