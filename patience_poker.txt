@@ -45,8 +45,8 @@ also scored as a [pair] + [3-of-a-kind]
 
 ===NOTE===
 multiplayer is simply each person having their own deck and finding the same
-card as the leader (guess you could rotate this?) and places it as they wish
-on their board
+card as the leader and placing it as they wish on their board. i assume one
+person stays dealer for the round so the others can have their cards sorted.
 
 ===NOTE===
 shackleton 'n boys played hella patience poker in the arctic
