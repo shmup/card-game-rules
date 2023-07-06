@@ -126,7 +126,7 @@ Variations
 ----------
 
 ### cuttle.cards Vanilla
-Online play at [cuttle.cards][https://www.cuttle.cards] uses several minor changes to the rules written above, in order to fine-tune the game's balance for competitive play:
+Online play at [cuttle.cards](https://www.cuttle.cards) uses several minor changes to the rules written above, in order to fine-tune the game's balance for competitive play:
  * The most important change is the addition of an 8-card hand limit. Players cannot draw when they have 8 cards in hand and playing a 5 when you have 8 cards already draws you just one card so you go up to 8.
  * Seven one-offs: reveal the top two cards of the deck (instead of one), and the active player chooses one of the cards to play, and puts the other back on top of the deck.
  * Nine one-offs: return target permanent to it's controller's hand. *It cannot be played next turn.*
