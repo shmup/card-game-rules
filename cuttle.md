@@ -1,7 +1,7 @@
 Cuttle 
 ======
 
-The exact origin of this unusual two-player game is unknown. It is described in Richard Sipie's [Cuttle FAQ](http://www.geocities.ws/richardsipie/cuttle.htm).
+The exact origin of this unusual 2-4 player game is unknown. It is described in Richard Sipie's [Cuttle FAQ](http://www.geocities.ws/richardsipie/cuttle.htm).
 
 He says he was taught the rules [in 1975](#this-game-has-similarities-with-magic-the-gathering).
 
@@ -124,6 +124,33 @@ piato on Reddit [says](http://www.reddit.com/r/magicTCG/comments/2ye2yc/theres_a
 
 Variations
 ----------
+
+### cuttle.cards Vanilla
+Online play at [cuttle.cards][https://www.cuttle.cards] uses several minor changes to the rules written above, in order to fine-tune the game's balance for competitive play:
+ * The most important change is the addition of an 8-card hand limit. Players cannot draw when they have 8 cards in hand and playing a 5 when you have 8 cards already draws you just one card so you go up to 8.
+ * Seven one-offs: reveal the top two cards of the deck (instead of one), and the active player chooses one of the cards to play, and puts the other back on top of the deck.
+ * Nine one-offs: return target permanent to it's controller's hand. *It cannot be played next turn.*
+ * Having 3 kings reduces a player's goal to 5 points (from 7), and having all 4 kings reduces a player's goal to 0 points (from 5) and causes that player to immediately win.
+
+### Cutthroat Cuttle (1v1v1)
+Cutthroat is a fast-paced 1v1v1 version of Cuttle. It is played with the same rules as the cuttle.cards Vanilla rules, with the following changes:
+
+ * The win condition is reduced. Players need 14 points to win by default, 9 points with one King in play, 5 points with two Kings in play, and having 3 Kings in play immediately wins (goal becomes zero).
+ * To start play, deal each player 5 cards and the player to the left of the dealer goes first. Which player is the dealer rotates clockwise each game.
+ * Shuffle two Jokers into the deck. Jokers count as Royals with the effect "Steal target Royal".
+ * The hand limit is reduced to 7 (from 8).
+ * When playing a glasses 8, instead of forcing players to play open handed, the player with the glasses may request to see either opponent's hand at any time
+
+### Team Cuttle (2v2)
+Team Cuttle is a 2v2 game where players sit across from their partner. A team wins if either of its players earns the required number of points, but players do not share cards in their hand or on their field (points are counted separately and your Royals do not directly affect your partner). Otherwise, the rules are the same as cuttle.cards Vanilla Cuttle, with the following changes:
+
+* Each player is dealt 5 cards, play starts left of the dealer and proceeds clockwise from there.
+Shuffle two Jokers into the deck. Jokers count as Royals with the effect "Steal target Royal". Similar to Jacks, they may transfer control of a Royal from any player to any other player.
+* The hand limit is reduced to 7 (from 8).
+* Jacks may be played to transfer control of any point card to any other player. You may therefore "steal" points from yourself (or anyone else) in order to give them to your partner, potentially winning on your turn with their points (their goal is still determined by the count of their own Kings on the field).
+* Nines can be played for an alternative, similar effect. Whenever an opponent plays a Royal, you may immediately play a Nine in response to return that card to its owner's hand immediately, preventing its effect from taking place. Doing so may be done out of turn and does not take your turn, but does not prevent the target's owner from playing the card again on their next turn. Alternatively, you may still play a Nine for its original one-off effect on your turn (taking your turn to do so) to return a card to its controller's hand and prevent them from playing that card on their next turn.
+
+### Individual One-Off Variations
 
  * Instead of the 4's one-off being a **Choice Discard**, make it a **Random Discard**. It can possibly improves the game once you hit a reasonably high level, putting pressure on 2's and encouraging attacking play. On the other hand, choice 4's are skill-testing when you're just learning the game, so swings and roundabouts I guess. (suggested by [piato](http://www.reddit.com/r/magicTCG/comments/2ye2yc/theres_a_standard_playing_card_game_from_1975/cp99ehj))
 
