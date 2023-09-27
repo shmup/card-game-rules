@@ -125,7 +125,7 @@ piato on Reddit [says](http://www.reddit.com/r/magicTCG/comments/2ye2yc/theres_a
 Variations
 ----------
 
-### cuttle.cards Vanilla
+### cuttle.cards Standard
 Online play at [cuttle.cards](https://www.cuttle.cards) uses several minor changes to the rules written above, in order to fine-tune the game's balance for competitive play:
  * The most important change is the addition of an 8-card hand limit. Players cannot draw when they have 8 cards in hand and playing a 5 when you have 8 cards already draws you just one card so you go up to 8.
  * Seven one-offs: reveal the top two cards of the deck (instead of one), and the active player chooses one of the cards to play, and puts the other back on top of the deck.
@@ -133,7 +133,7 @@ Online play at [cuttle.cards](https://www.cuttle.cards) uses several minor chang
  * Having 3 kings reduces a player's goal to 5 points (from 7), and having all 4 kings reduces a player's goal to 0 points (from 5) and causes that player to immediately win.
 
 ### Cutthroat Cuttle (1v1v1)
-Cutthroat is a fast-paced 1v1v1 version of Cuttle. It is played with the same rules as the cuttle.cards Vanilla rules, with the following changes:
+Cutthroat is a fast-paced 1v1v1 version of Cuttle. It is played with the same rules as the cuttle.cards Standard rules, with the following changes:
 
  * The win condition is reduced. Players need 14 points to win by default, 9 points with one King in play, 5 points with two Kings in play, and having 3 Kings in play immediately wins (goal becomes zero).
  * To start play, deal each player 5 cards and the player to the left of the dealer goes first. Which player is the dealer rotates clockwise each game.
@@ -142,7 +142,7 @@ Cutthroat is a fast-paced 1v1v1 version of Cuttle. It is played with the same ru
  * When playing a glasses 8, instead of forcing players to play open handed, the player with the glasses may request to see either opponent's hand at any time
 
 ### Team Cuttle (2v2)
-Team Cuttle is a 2v2 game where players sit across from their partner. A team wins if either of its players earns the required number of points, but players do not share cards in their hand or on their field (points are counted separately and your Royals do not directly affect your partner). Otherwise, the rules are the same as cuttle.cards Vanilla Cuttle, with the following changes:
+Team Cuttle is a 2v2 game where players sit across from their partner. A team wins if either of its players earns the required number of points, but players do not share cards in their hand or on their field (points are counted separately and your Royals do not directly affect your partner). Otherwise, the rules are the same as cuttle.cards Standard Cuttle, with the following changes:
 
 * Each player is dealt 5 cards, play starts left of the dealer and proceeds clockwise from there.
 Shuffle two Jokers into the deck. Jokers count as Royals with the effect "Steal target Royal". Similar to Jacks, they may transfer control of a Royal from any player to any other player.
