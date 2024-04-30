@@ -28,19 +28,19 @@ What do the cards do?
 
 1. Firstly: Any numbered card (A-10) may be played as a **point card**. In this case, the player puts the card face-up on the table in front of him, and it is worth as many points as the are spots on its face (1 for an ace, etc).
 
-2. Secondly: Any numbered card (A-10) may be played, instead, as a **scuttle**. In this case, it is played **on top** of a point card which it exceeds [in value](#card-values).:small_orange_diamond: Both cards are then moved directly to the scrap pile (**face up**, as is everything there).:small_blue_diamond:
+2. Secondly: Any numbered card (A-10) may be played, instead, as a **scuttle**. In this case, it is played **on top** of a point card which it exceeds [in value](#card-values). Both cards are then moved directly to the scrap pile (**face up**, as is everything there).
 
-:small_orange_diamond: _The eight of hearts will scuttle the seven of spades, but not the eight of clubs._
+:small_orange_diamond: _The eight of clubs will scuttle the seven of spades, but not the eight of hearts._
 
 :small_blue_diamond: _Cards in the scrap pile have no controller, and do not effect the game in any way._
 
 
 ### Card Values
 
-1. Suit order: :clubs: :diamonds: :hearts: :spades: (clubs, diamonds, hearts, spades)
+1. Suit order: :clubs: < :diamonds: < :hearts: < :spades: (clubs, diamonds, hearts, spades)
 2. Rank order: A-2-3-4-5-6-7-8-9-10-J-Q-K
 
-_A helpful way to remember suit order is that they are alphabetical:_ **C-D-H-S**
+_A helpful way to remember suit order is that they are alphabetical, low to high:_ **C-D-H-S**
 
 
 ### Point Cards
